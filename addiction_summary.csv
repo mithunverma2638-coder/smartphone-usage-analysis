@@ -1,0 +1,13 @@
+addiction_level,gender,avg_screen,avg_sleep,count
+Mild,Female,5.51,6.71,455
+Mild,Male,5.47,6.67,440
+Mild,Other,5.62,6.6,478
+Moderate,Female,8.26,6.79,966
+Moderate,Male,8.45,6.79,996
+Moderate,Other,8.33,6.68,912
+Severe,Female,8.64,6.74,762
+Severe,Male,8.55,6.87,848
+Severe,Other,8.63,6.72,824
+Unknown,Female,4.51,6.71,278
+Unknown,Male,4.54,6.69,269
+Unknown,Other,4.52,6.63,272
